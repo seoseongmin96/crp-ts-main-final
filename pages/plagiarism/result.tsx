@@ -3,6 +3,16 @@ import Result from '@/components/plagiarism/Result';
 import { NextPage } from 'next';
 
 const ResultPage: NextPage = () =>{
-    return <Result/>
+
+const onChange = (e: React.FormEvent<HTMLInputElement>) => {
+    e.preventDefault();
+}
+
+const onSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+}
+
+    
+    return (<Result onSubmit={onSubmit} onChange = {onChange}/>)
 }
 export default ResultPage;

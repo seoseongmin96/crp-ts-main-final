@@ -104,14 +104,14 @@ const Home: React.FC<Props> = ({onClick}) => {
       <article className='product0'>
         <p>
         CRP만의 분석 프로그램을 이용해보세요</p><br/>
-        <p><a className="btn btn-secondary" href="/analysis/anupload">바로가기 &raquo;</a></p>
+        <p><a className="btn btn-secondary" href="/plagiarism/select">바로가기 &raquo;</a></p>
       </article>
 
       <img src="piano3.jpg" height = {630} className="d-block w-100"/> <br/><br/><br/><br/>
       <article className='product1'>
         <p>
         CRP만의 표절 프로그램을 이용해보세요</p>
-        <p><a className="btn btn-secondary" href="/plagiarism/upload">바로가기 &raquo;</a></p>
+        <p><a className="btn btn-secondary" href="/plagiarism/select">바로가기 &raquo;</a></p>
       </article>
 
       <img src="search.jpg" height = {630} className="d-block w-100"/> <br/><br/><br/><br/>
@@ -138,6 +138,7 @@ const Home: React.FC<Props> = ({onClick}) => {
                         <li><i className="fa fa-envelope mt-4 fa"></i>
                             <p>crp.kr</p>
                         </li>
+                        
                     </ul>
                 </div>
   

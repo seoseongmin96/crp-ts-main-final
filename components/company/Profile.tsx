@@ -13,7 +13,7 @@ return(<><br/> <br/> <br/>
     <div className="card-body">
         <h5 className="card-title">조현국</h5> <br/> 
         <p className="card-text">NLP <br/> Transfomer, <br/> Bert, GPT-3 <br/> Pytorch  <br/> VoiceBot,Lyrics Software Developer</p>
-        <a href="/plagiarism/upload" className="btn btn-outline-dark">표절 검사</a>
+        
     </div>
 </div> &nbsp; &nbsp;
 <div className="card" style={{maxWidth: 20+"rem"}}>
@@ -21,7 +21,7 @@ return(<><br/> <br/> <br/>
         <div className="card-body">
             <h5 className="card-title">최은아</h5> <br/> 
             <p className="card-text"> GAN <br/> Tensorflow <br/> Plagiarism & Analysis Software Developer</p>
-            <a href="/analysis/anupload" className="btn btn-outline-dark">악보 분석</a>
+            
         </div>
 </div>
 <div className="card" style={{maxWidth: 20+"rem"}}>
@@ -29,7 +29,7 @@ return(<><br/> <br/> <br/>
         <div className="card-body">
             <h5 className="card-title">권혜민</h5> <br/> 
             <p className="card-text">GAN <br/>Tensorflow <br/> SoundSearch Software Developer </p>
-            <a href="/analysis/anupload" className="btn btn-outline-dark">악보 분석</a>
+            
         </div>
 </div>
 <div className="card" style={{maxWidth: 20+"rem"}}>
@@ -37,7 +37,7 @@ return(<><br/> <br/> <br/>
         <div className="card-body">
             <h5 className="card-title">서성민</h5> <br/> 
             <p className="card-text"> Type, JavaScript <br/> React, Next <br/> Composition Software Developer</p>
-            <a href="/analysis/anupload" className="btn btn-outline-dark">악보 분석</a>
+            
         </div>
 </div>
 </div>
