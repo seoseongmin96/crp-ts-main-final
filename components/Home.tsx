@@ -9,7 +9,6 @@ const Home: React.FC<Props> = ({onClick}) => {
   const styled = css`
 
     
-
     .contents {
         height: 100%;
         margin: 10% 15%;
@@ -117,7 +116,7 @@ const Home: React.FC<Props> = ({onClick}) => {
       <img src="search.jpg" height = {630} className="d-block w-100"/> <br/><br/><br/><br/>
       <article className='product2'>
         <p>
-        CRP만의 음악 추천 프로그램을 이용해보세요</p>
+        CRP만의 작곡 프로그램을 이용해보세요</p>
         <p><a className="btn btn-secondary" href="/music/musicPlay">바로가기 &raquo;</a></p>
       </article>
 

@@ -16,7 +16,7 @@ return(<><br/> <br/> <br/>
         
     </div>
 </div> &nbsp; &nbsp;
-<div className="card" style={{maxWidth: 20+"rem"}}>
+<div className="card" style={{maxWidth: 21+"rem"}}>
     <img src="https://ifh.cc/g/adgod5.jpg" width={"50%"} height={"50%"} className="card-img-top" alt="..."/>
         <div className="card-body">
             <h5 className="card-title">최은아</h5> <br/> 
@@ -33,7 +33,7 @@ return(<><br/> <br/> <br/>
         </div>
 </div>
 <div className="card" style={{maxWidth: 20+"rem"}}>
-    <img src="https://ifh.cc/g/dl1Zlh.jpg" width={"50%"} height={"50%"} className="card-img-top" alt="..."/>
+    <img src="https://ifh.cc/g/dH4xQH.jpg" width={"50%"} height={"50%"} className="card-img-top" alt="..."/>
         <div className="card-body">
             <h5 className="card-title">서성민</h5> <br/> 
             <p className="card-text"> Type, JavaScript <br/> React, Next <br/> Composition Software Developer</p>
