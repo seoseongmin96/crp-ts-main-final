@@ -4,7 +4,7 @@ import {Button, Col, Form, Row} from "react-bootstrap";
 
 type Props = {
    
-    onClick : (e: React.FormEvent<HTMLFormElement> ) => void
+    onClick : (e: React.FormEvent<HTMLFormElement>) => void
 }
 
 const Compose: React.FC<Props> = ({onClick}) => {

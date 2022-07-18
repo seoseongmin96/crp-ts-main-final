@@ -14,6 +14,7 @@ const AnUpload: React.FC<Props> = ({onChange}) => {
               <FileUploader onChange={onChange} name="file" types={fileTypes} /> <br/>
               <button type="submit" className={style.button}>악보 업로드</button>
             </form>
+            
             <a href="#" className={style.float}>
               <img src='https://ifh.cc/g/5y48Hl.png' className={style.my} style={{width:40+"px", height:40+"px"}}/>
           </a>
